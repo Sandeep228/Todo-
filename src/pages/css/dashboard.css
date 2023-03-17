@@ -1,0 +1,17 @@
+* {
+  margin: 10px;
+}
+.mainDiv {
+  display: flex;
+  align-items: center;
+
+  padding: 10px 10px;
+}
+
+.btn {
+  margin-left: 10px;
+}
+
+.formStyle {
+  display: flex;
+}
